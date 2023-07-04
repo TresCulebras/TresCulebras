@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello, I'm a passionate student of fundamentals in data science at HypeDev. With a deep interest in technology, especially in the realm of fintech, I am constantly excited to explore the world of coding and numbers. Eager to learn and grow, I am thrilled to be on this path and fully dedicated to honing my skills.
+
+I am actively seeking opportunities to collaborate and contribute to projects related to data science and coding, particularly in Python. I believe in the power of data-driven insights and am motivated to apply my knowledge to solve real-world challenges. Whether it's exploring datasets, building predictive models, or creating data visualizations, I'm enthusiastic about leveraging the potential of data to drive meaningful outcomes.
+
+I look forward to connecting with like-minded individuals and being a part of innovative projects that push the boundaries of technology and data science. Let's collaborate and make an impact together!
+
 <!--
 **TresCulebras/TresCulebras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
